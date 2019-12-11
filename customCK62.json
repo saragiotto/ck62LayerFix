@@ -38,7 +38,8 @@
                   "left_alt"
               ],
               "optional": [ 
-                  "left_shift" 
+                  "left_shift",
+                  "caps_lock"
               ]
             }
           },
