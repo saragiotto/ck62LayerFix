@@ -5,4 +5,4 @@ then
     mkdir ~/.config/karabiner/assets/complex_modifications 
 fi
 
-cp customCK62.json ~/.config/karabiner/assets/complex_modifications 
+cp -rf customCK62.json ~/.config/karabiner/assets/complex_modifications 
